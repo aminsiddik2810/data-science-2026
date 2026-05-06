@@ -25,6 +25,6 @@ Pada notebook ini saya mempelajari dasar-dasar Python untuk Data Science, yaitu:
 Melalui latihan ini saya belajar memahami dasar pemrograman Python yang digunakan dalam bidang Data Science.
 
 ## File dalam Repository
-- `Pertemuan1_AminSiddikRangkuti_220401010124
--  Pertemuan2_AminSiddikRangkuti_220401010124
--  Pertemuan3_AminSiddikRangkuti_220401010124
+- Pertemuan1_AminSiddikRangkuti_220401010124
+- Pertemuan2_AminSiddikRangkuti_220401010124
+- Pertemuan3_AminSiddikRangkuti_220401010124
